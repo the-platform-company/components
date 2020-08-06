@@ -1,6 +1,6 @@
 {
   "name": "@theplatformcompany/components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Components for The Platform Company's web and mobile products",
   "license": "UNLICENSED",
   "main": "dist/index.js",
