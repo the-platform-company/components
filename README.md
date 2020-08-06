@@ -1,4 +1,4 @@
-# ui-kit
+# @theplatformcompany/components
 
 **Currently just forwarding all content from the antd package**
 
